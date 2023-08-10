@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-##About Me...
-
-
 ## Employment
 - **Postdoc Fellow in School of Pharmacy** (*Aug. 2023-Current*) <br />
   University of Maryland Baltimore, Baltimore, USA
