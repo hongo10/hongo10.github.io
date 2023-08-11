@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## About Me
-- I specialize in computational chemistry, I have also done experiments in polymer physics. 
-- Mandarin (简体中文) and Korean (한국어) are my native languages. I speak English and Japanese (日本語) as well.
+- While I specialize in **computational chemistry**, I have also done experiments in polymer physics. 
+- Mandarin (普通话) and Korean (한국어) are my native languages. I speak English and Japanese (日本語) as well.
 
 ## Employment
 - **Postdoc Fellow in School of Pharmacy** (*Aug. 2023-Current*) <br />
