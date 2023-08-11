@@ -1,5 +1,5 @@
 ---
-title: "Ginko Tree in Utokyo"
+title: "Ginkgo Tree in Utokyo"
 collection: picture
 type: "picture"
 permalink: /picture/utokyo
