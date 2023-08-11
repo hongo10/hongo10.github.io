@@ -9,7 +9,7 @@ location: "Tokyo, Japan"
 
 Amazing polymer! self-healable and tough.
 
-<img src='/images/research_pictures/interfacial_properties.png' width='500' height='300'>
+*The University of Tokyo, Master Program*
 
 - Polymer synthesis and polymer blend preparation.
 - Characterized the polymer using NMR (solution, and solid-state), MALS, GPC, IR, Rheology, TGA, and DSC, etc.
