@@ -8,5 +8,7 @@ location: "Edmonton, Canada"
 
 Edmonton experienced extremely cold winters, while summers felt like a paradise in contrast. On my defense day, I captured a photo beneath an apple tree.
 
+<!--more-->
+
 <img src='/images/pictures/Edmonton_winter.JPG' width='250' height='150'>
 <img src='/images/pictures/Defence_day.JPG' width='250' height='150'>
