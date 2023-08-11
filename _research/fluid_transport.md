@@ -9,7 +9,7 @@ location: "Edmonton, Canada"
 
 Explored the fluid distribution and flow characteristics within nanoporous media.
 
-<img src='/images/research_pictures/transport.png' width='500' height='300'>
+<img src='/images/research_pictures/transport.png' width='250' height='150'>
 
 - Investigated the fluid distribution in the nanoporous media using in-house GCMC Fortran code.
 - Simulated flow of compressible and incompressible fluids in nanoporous media using the molecular dynamics simulation software LAMMPS and NAMD.
