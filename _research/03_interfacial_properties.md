@@ -9,7 +9,9 @@ location: "Edmonton, Canada"
 
 Explored the roles of surface-active agents at the multiphase-interfaces using MD simulations.
 
+<!--
 <img src='/images/research_pictures/interfacial_properties.png' width='500' height='300'>
+-->
 
 Please skip the first 3min of the video.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gb72OVQyCmU" title="AICHE Meeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
