@@ -10,6 +10,7 @@ location: "Edmonton, Canada"
 Explored the fluid distribution and flow characteristics within nanoporous media.
 
 <img src='/images/research_pictures/transport.png' width='500' height='300'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3GxBhRLq-s" title="AICHE Meeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *University of Alberta, Ph.D Program*
 
