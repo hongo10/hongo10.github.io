@@ -16,6 +16,21 @@ author_profile: true
 <ol reversed>
 <h2 style='margin-top:0'>2023</h2>
 
+<li>
+Y. Nan, A. MacKerell, Balancing Group I Monoatomic Ion-Polar Compound Interactions for Condensed Phase Simulation in the Polarizable Drude Force Field, 2023 under review.
+</li>
+
+<li>
+W. Li, Y. Nan, Z. Jin, Dependence of Methane Transport on Pore Informatics in the Amorphous Nanoporous Kerogen Matrix, Langmuir, 2024, 40, 1, 687–695
+</li>
+
+<li>
+L. Duan, M. Zhang, Y. Nan, Z. Jin, Effects of Interfacial Molecular Structures on Pressure-Driven Brine Flow in Silica Mesopores, Langmuir, 2023, 39, 37, 13019–13027 
+</li>
+
+<li>
+M. Zhang, Y. Nan, Y. Lu, Q. You, Z. Jin, CO2-responsive surfactant for oil-in-water emulsification and demulsification from molecular perspectives, Fuel, 2023, 331 (2): 125773
+</li>
 
 <li>
 M. Zhang, Y. Nan, Y. Lu, Q. You, Z. Jin, CO2-responsive surfactant for oil-in-water emulsification and demulsification from molecular perspectives, Fuel, 2023, 331 (2): 125773
