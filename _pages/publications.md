@@ -32,9 +32,6 @@ L. Duan, M. Zhang, Y. Nan, Z. Jin, Effects of Interfacial Molecular Structures o
 M. Zhang, Y. Nan, Y. Lu, Q. You, Z. Jin, CO2-responsive surfactant for oil-in-water emulsification and demulsification from molecular perspectives, Fuel, 2023, 331 (2): 125773
 </li>
 
-<li>
-M. Zhang, Y. Nan, Y. Lu, Q. You, Z. Jin, CO2-responsive surfactant for oil-in-water emulsification and demulsification from molecular perspectives, Fuel, 2023, 331 (2): 125773
-</li>
 
 
 <h2 style='margin-top:0'>2022</h2>
