@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s2faPfflUJnPso1Ip5mEN8K9Dcx0Vgszble7y4oHteo"></script>
+
 ## About Me
 - While I specialize in **computational chemistry**, I have also done experiments in polymer physics. 
 - Mandarin (普通话) and Korean (한국어) are my native languages. I speak English and Japanese (日本語) as well.
@@ -27,7 +29,5 @@ The University of Tokyo, Tokyo, Japan
 - **Bachelor's in Chemical Engineering**  (*Jul. 2016*) <br />
 Tsinghua University, Beijing, China
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s2faPfflUJnPso1Ip5mEN8K9Dcx0Vgszble7y4oHteo"></script>
 
 
