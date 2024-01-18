@@ -28,4 +28,6 @@ The University of Tokyo, Tokyo, Japan
 Tsinghua University, Beijing, China
 
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s2faPfflUJnPso1Ip5mEN8K9Dcx0Vgszble7y4oHteo"></script>
+
 
