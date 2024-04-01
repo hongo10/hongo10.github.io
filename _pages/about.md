@@ -27,5 +27,5 @@ The University of Tokyo, Tokyo, Japan
 - **Bachelor's in Chemical Engineering**  (*Jul. 2016*) <br />
 Tsinghua University, Beijing, China
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=s2faPfflUJnPso1Ip5mEN8K9Dcx0Vgszble7y4oHteo&co=6cb4e8'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=s2faPfflUJnPso1Ip5mEN8K9Dcx0Vgszble7y4oHteo&co=6cb4e8'></script> -->
 
