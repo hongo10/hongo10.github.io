@@ -14,15 +14,17 @@ author_profile: true
 <!--- reverse ordered list in html, not an 'easy' way to do this in markdown without another package -->
 <br>
 <ol reversed>
-<h2 style='margin-top:0'>2023</h2>
 
 <li>
-Y. Nan, A. MacKerell, Balancing Group I Monoatomic Ion-Polar Compound Interactions for Condensed Phase Simulation in the Polarizable Drude Force Field, 2023 under review.
+Y. Nan, A. MacKerell, Balancing Group I Monoatomic Ion-Polar Compound Interactions for Condensed Phase Simulation in the Polarizable Drude Force Field, Journal of Chemical Theory and Computation, 2024, 20, 8, 3242--3257
 </li>
 
 <li>
 W. Li, Y. Nan, Z. Jin, Dependence of Methane Transport on Pore Informatics in the Amorphous Nanoporous Kerogen Matrix, Langmuir, 2024, 40, 1, 687–695
 </li>
+
+<h2 style='margin-top:0'>2023</h2>
+
 
 <li>
 L. Duan, M. Zhang, Y. Nan, Z. Jin, Effects of Interfacial Molecular Structures on Pressure-Driven Brine Flow in Silica Mesopores, Langmuir, 2023, 39, 37, 13019–13027 
