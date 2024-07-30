@@ -1,5 +1,5 @@
 ---
-title: "1 meter = 1 million years"
+title: "1 Meter = 1 Million Years"
 collection: picture
 type: "picture"
 permalink: /pictures/arizona
