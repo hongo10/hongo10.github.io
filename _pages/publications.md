@@ -15,6 +15,8 @@ author_profile: true
 <br>
 <ol reversed>
 
+<h2 style='margin-top:0'>2024</h2>
+
 <li>
 Y. Nan, A. MacKerell, Balancing Group I Monoatomic Ion-Polar Compound Interactions for Condensed Phase Simulation in the Polarizable Drude Force Field, Journal of Chemical Theory and Computation, 2024, 20, 8, 3242--3257
 </li>
