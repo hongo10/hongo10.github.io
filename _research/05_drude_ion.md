@@ -17,4 +17,4 @@ Refine the interactions between monoatomic ions (Li+, Na+, K+, Rb+, Cs+, Mg2+, C
 - Verified the proposed methodology through rigorous comparison with available experimental data (osmotic pressure, diffusion coefficient, ion competition around protein and nucleic acids etc.).
 - 5 conference presentations with 1 paper published on “J. Chem. Theory Comput.” and 2 under preparation.
 - Improved the FF performance in producing thermodynamic properties by up to 50 % with the new set of parameters.
-- Code on working papaer is available on MacKerell Group GitHub [Link Text] (https://github.com/mackerell-lab/Paper_Ion_Protein_Nucleic-Acids)
+- Code on working papaer is available on MacKerell Group GitHub [here](https://github.com/mackerell-lab/Paper_Ion_Protein_Nucleic-Acids)
