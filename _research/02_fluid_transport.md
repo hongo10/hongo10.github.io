@@ -7,16 +7,17 @@ venue: "University of Alberta, Ph.D"
 location: "Edmonton, Canada"
 ---
 
-Explored the fluid distribution and flow characteristics within nanoporous media.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3GxBhRLq-s" title="AICHE Meeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 <img src='/images/research_pictures/transport.png' width='500' height='300'>
 -->
 
-Please skip the first 3min of the video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x3GxBhRLq-s" title="AICHE Meeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *University of Alberta, Ph.D Program*
+
+
+<img src='/images/research_pictures/transport.png' width='500' height='300'>
 
 - Investigated the fluid distribution in the nanoporous media using in-house GCMC Fortran code.
 - Simulated flow of compressible and incompressible fluids in nanoporous media using the molecular dynamics simulation software LAMMPS and NAMD.

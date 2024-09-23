@@ -7,9 +7,8 @@ venue: "University of Tokyo, Master Program"
 location: "Tokyo, Japan"
 ---
 
-Amazing polymer! self-healable and tough.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VJCX0xgQFBE" title="Self-healing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *The University of Tokyo, Master Program*
 
