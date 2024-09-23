@@ -6,8 +6,8 @@ permalink: /pictures/arizona
 location: "Arizona, Utah, USA"
 ---
 
-<img src='/images/pictures/Grandcanyon.png' width='250' height='150'>
-<img src='/images/pictures/Rocks.png' width='250' height='150'>
+<img src='/images/pictures/Grandcanyon.jpeg' width='250' height='150'>
+<img src='/images/pictures/Rocks.jpeg' width='250' height='150'>
 
 
 In the Grand Canyon, there is a trail called the "Trail of Time." As you walk along it, each meter you cover represents 1 million years of geological history, allowing you to witness the nearly 2 billion years of interaction between rock, wind, water, and heat. Interestingly, I am working on interactions at the nanosecond scale. 
