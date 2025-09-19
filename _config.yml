@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yiling Nan"
   avatar           : "Profile.jpeg"
-  bio              : "Postdoctoral Research Fellow\n<a href='https://mackerell.umaryland.edu/'>Alex MacKerell Group</a>" 
-  location         : "Baltimore MD"
-  employer         : "University of Maryland" 
+  bio              : "Assistant Professor\n<a href='https://cpe.ku.edu/people/yiling-nan/'>" 
+  location         : "Lawrence, KS"
+  employer         : "University of Kansas" 
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gRWvx3YAAAAJ&hl=en"
-  email            : "yiling.nan@rx.umaryland.edu"
+  email            : "yiling.nan@ku.edu"
   researchgate     : "https://www.researchgate.net/profile/Yiling-Nan"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
