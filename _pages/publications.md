@@ -18,7 +18,7 @@ author_profile: true
 <h2 style='margin-top:0'>2024</h2>
 
 <li>
-Y. Nan, P. Baral, A. Orr, H. Michel, J. Lemkul, and A. MacKerell, Balancing Group 1 Monoatomic Ion-Polar Compound Interactions in the Polarizable Drude Force Field: Application in Protein and Nucleic Acid Systems, Under Review
+Y. Nan, P. Baral, A. Orr, H. Michel, J. Lemkul, and A. MacKerell, Balancing Group 1 Monoatomic Ion-Polar Compound Interactions in the Polarizable Drude Force Field: Application in Protein and Nucleic Acid Systems, The Journal of Physical Chemistry B, 2024, 128(49): 12078-12091
 </li>
 
 <li>

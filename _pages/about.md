@@ -13,7 +13,11 @@ redirect_from:
 - Mandarin (普通话) and Korean (한국어) are my native languages. I speak English and Japanese (日本語) as well.
 
 ## Employment
-- **Postdoc Fellow in School of Pharmacy** (*Aug. 2022-Current*) <br />
+
+- **Assistant Professor in Chemical & Petroleum Engineering** (*Aug. 2025*) <br />
+  The University of Kansas, Lawrence, USA
+
+- **Postdoc Fellow in School of Pharmacy** (*Aug. 2025*) <br />
   University of Maryland Baltimore, Baltimore, USA
 
 ## Education
