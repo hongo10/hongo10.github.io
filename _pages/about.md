@@ -14,7 +14,7 @@ redirect_from:
 
 ## Employment
 
-- **Assistant Professor in Chemical & Petroleum Engineering** (*Aug. 2025*) <br />
+- **Assistant Professor in Chemical & Petroleum Engineering** (*Aug. 2025 - Current*) <br />
   The University of Kansas, Lawrence, USA
 
 - **Postdoc Fellow in School of Pharmacy** (*Aug. 2025*) <br />
